@@ -1,12 +1,21 @@
 Hi!
 
-To open the terminal follow the instructions below (for Mac).
+If you don't have any SSH key. Follow the instructions below. 
 
-Press command + spacebar.
+Open the terminal by pressing command + space. Then search for terminal. 
 
-Then search for Terminal.
+In the terminal, write the following. 
 
-To download this folder, write the following in your terminal.
+1. cd desktop
 
-git clone git@github.com:arnalea/Portfolio.git
+2. git clone https://github.com/arnalea/Portfolio.git
 
+However if you have an SSH key, follow this instructions.
+
+Open the terminal by pressing command + space. Then search for terminal. 
+
+In the terminal, write the following. 
+
+1. cd desktop
+
+2. git clone git@github.com:arnalea/Portfolio.git
